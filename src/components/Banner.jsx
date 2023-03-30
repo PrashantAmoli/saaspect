@@ -1,6 +1,6 @@
 import React from 'react';
 import { Card, Typography } from '@mui/material';
-import banner from '@/images/banner.png';
+import banner from '@/assets/banner.png';
 import Image from 'next/image';
 
 export default function Banner() {
